@@ -1,4 +1,4 @@
-# Facial Recognition Project (In Progress)
+# Facial Recognition Project (In Progress!)
 
 A **Python-based facial recognition system** for detecting and recognizing faces in images and video streams.
 
